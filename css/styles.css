@@ -434,6 +434,7 @@ footer {
     width: auto;
   }
   main .section .section-1 .sector-2 .rated-2 p {
+    text-align: center;
     padding: 0px;
   }
   main .section .section-1 .sector-2 .rated-3 {
@@ -446,6 +447,7 @@ footer {
     justify-content: center;
   }
   main .section .section-1 .sector-2 .rated-3 p {
+    text-align: center;
     padding: 0px;
   }
 }
