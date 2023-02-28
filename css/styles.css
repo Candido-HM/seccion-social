@@ -197,7 +197,7 @@ main .section .section-2 .article-1 .user .imagen img {
   border-radius: 100%;
   background-size: 50%;
 }
-main .section .section-2 .article-1 .user h3 {
+main .section .section-2 .article-1 .user h2 {
   grid: title;
   color: white;
   font-size: 15px;
